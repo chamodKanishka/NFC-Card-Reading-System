@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\serial read.exe.config
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\Databasebus.mdf
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\Databasebus_log.ldf
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\serial read.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\serial read.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\bin\Debug\serial read.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\serial read.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\serial read.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\serial read.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\serial read\serial read\obj\Debug\serial read.pdb
